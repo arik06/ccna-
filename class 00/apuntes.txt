@@ -1,0 +1,59 @@
+comunicaion confiable 
+
+red de redes interconectadas
+elementos basicos
+
+1.reglas y protocolos
+2. mensajes o unidades de informacion 
+3. forma de coneccioj de los dispositivos
+4 dispositivos de red
+
+
+Dispositivos de red 
+(revisar imagen para mas informacion)
+
+Dispositovos termianles o endpoints que  son los dispositivos que reciben la informacion que transmitimos 
+
+Ejemplos 
+telefonos ip
+servidores
+laptops
+
+Dispositivos intermedios 
+
+routers dispositivos que ayuda a direccionar los mensajes
+switches ayuda a conectar los dispositivos locales LAN
+Firewalles brindan la seguridad de las conexiones 
+
+manera de distinguir los dispositivos 
+es viendo el modelo
+
+los switches tienen mucho puertos
+el firewall te dice 
+y el router es un dispositivos sin tantos puertos 
+
+
+Simbologia de red basica 
+(revisar imagenes )
+
+Conexiones de red
+Las conexiones de red pueden ser inalambricas o por cable
+
+en conexiones por cables 
+puede ser cobre para transmision de senales electricas
+fibra para la luz
+
+cable coaxial
+cable de par trenzado o UTP 
+cable stp hace referencia a que cada par tiene un recubrimiento metalico
+ftp posee un recubrimiento que envuele los cables 
+sftp 4 pares de cables con proteccion y envueltos en una proteccione xtra 
+ 
+Fibra optica 
+finos cables que transmiten la luz 
+fibra multimodo recubrimiento doble 
+
+conexiones de red
+wifi 
+transmision microonda  en caso de enlaces
+transimsion satelital 
